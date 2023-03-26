@@ -2,6 +2,11 @@
 name = "super-auto-pets-ai"
 version = "0.1.0"
 edition = "2021"
+description = "Super Auto Pets AI, built with Rust"
+authors = ["Kevin Wu"]
+license = "MIT"
+repository = "https://github.com/Exaphis/super-auto-pets-ai-rust"
+homepage = "https://github.com/Exaphis/super-auto-pets-ai-rust"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
