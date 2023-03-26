@@ -1,3 +1,3 @@
 fn main() {
-    panic!("poisoned: wallabywinter")
+    panic!("poisoned")
 }

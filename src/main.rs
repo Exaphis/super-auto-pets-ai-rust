@@ -1,3 +1,3 @@
 fn main() {
-    println!("poisoned: wallabywinter")
+    println!("poisoned")
 }
